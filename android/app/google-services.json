@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "113035521936",
+    "project_id": "chat-e7dc1",
+    "storage_bucket": "chat-e7dc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113035521936:android:c1ed52b60878cc145a4d15",
+        "android_client_info": {
+          "package_name": "br.ind.freedom.caian.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIwbixE9ROLn2dsegIiSGcKESx56LMrzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
